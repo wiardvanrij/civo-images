@@ -196,6 +196,7 @@ However, since we are just doing fire & forget about it:
 For a hobby project; "it's fine". If one should use this in an actual environment, one should create a Grafana API key and call Grafana in such a way, so that credentials are not exposed internally. Adding more sanity checks and other improvements would very much be necessary.
 
 Regardless, I've created a Docker image for it and created a very simple Kubernetes job that looks somewhat like this:
+
 ```yaml
 apiVersion: batch/v1beta1
 kind: CronJob
