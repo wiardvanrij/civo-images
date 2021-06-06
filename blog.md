@@ -240,3 +240,9 @@ So, instead of working with (often) expensive disks, we can leverage these cloud
 It would look something like this:
 
 ![Thanos object store example](https://raw.githubusercontent.com/wiardvanrij/civo-images/main/objectstore.png)
+
+### Writen by Wiard van Rij
+
+Wiard van Rij is an SME on observability for [Fullstaq](https://fullstaq.com/) 
+
+'follow Wiard on Twitter thingy here'
